@@ -1,4 +1,4 @@
-## [Animated navigation menu](https://www.linkedin.com/in/andres-medina-arg/)
+## [Animated navigation menu](https://anmedina-arg.github.io/animated-navigation-menu/)
 
 - El objetivo de este proyecto es practicar muchas propiedades CSS, principalmente animaciones
 - Este menu de navegacion se puede ajustar a cualquier proyecto
